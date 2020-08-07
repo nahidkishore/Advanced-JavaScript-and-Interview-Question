@@ -6,3 +6,6 @@ if(first===second){
 else{
   console.log("condition is false");
 }
+
+// double equal hole just value check korbe
+// triple equal hole value and type check korbe
